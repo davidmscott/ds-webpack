@@ -1,0 +1,16 @@
+{
+  "name": "ds-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.4523d1d55060c9649c06.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dave Scott",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  }
+}
